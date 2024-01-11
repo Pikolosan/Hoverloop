@@ -1,7 +1,7 @@
 # Hover-Loop Effect 
 
 This GitHub repository houses a captivating Hover-Loop effect inspired by the innovative design techniques of Hyperflexed. The main feature of this project is a dynamic loop effect applied to three distinct images, creating an engaging visual experience.
-
+Using only HTML and CSS
 ## Key Features:
 
 1. **Looping Image Shadows:**
@@ -21,12 +21,11 @@ To incorporate this Hover-Loop effect into your project, follow these simple ste
    git clone https://github.com/your-username/hover-loop-effect.git
    ```
 
-2. **Include the CSS and JS Files:**
-   Integrate the provided CSS and JS files into your project's HTML file. Ensure that the paths are correctly set to access the styles and scripts.
+2. **Include the CSS Files:**
+   Integrate the provided CSS files into your project's HTML file. Ensure that the paths are correctly set to access the styles and scripts.
 
    ```html
    <link rel="stylesheet" href="path/to/hover-loop.css">
-   <script src="path/to/hover-loop.js"></script>
    ```
 
 3. **HTML Structure:**
